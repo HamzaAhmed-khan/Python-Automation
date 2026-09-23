@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An automated ETL (Extract, Transform, Load) pipeline written in Python for processing PDF documents containing car specifications, specifically designed for SEAT Serie Ibiza models. This tool extracts tables and features from PDFs, transforms the data through cleaning and normalization, and outputs structured Excel files with conditional formatting.
+An automated ETL (Extract, Transform, Load) pipeline written in Python for processing PDF documents containing car specifications, specifically designed for SEAT Serie Ibiza models. This tool extracts tables and features from PDFs, transforms the data through cleaning and normalization, and outputs structured Excel files with conditional formatting
 
 ## 📋 Table of Contents
 
